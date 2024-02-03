@@ -1,0 +1,6 @@
+select * from customers
+
+select * from suppliers
+
+select * from company_orders
+
